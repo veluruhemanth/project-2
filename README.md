@@ -24,6 +24,7 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 
+![Screenshot (355)](https://user-images.githubusercontent.com/117727200/205426052-f40411fd-5669-454f-b4dc-ac7a3e322a8a.png)
 ![Screenshot (356)](https://user-images.githubusercontent.com/117727200/205425977-2ca1654e-f82c-4dfa-9b7e-7bc168f61dd1.png)
 ![Screenshot (357)](https://user-images.githubusercontent.com/117727200/205425980-49a295c9-8592-4b73-899d-c6f112386c47.png)
 ![Screenshot (358)](https://user-images.githubusercontent.com/117727200/205425981-f999bc0e-8bf4-4231-bf5d-86f7e3156467.png)
@@ -32,7 +33,7 @@ This is a web based application developed for health related based website in in
 ![Screenshot (361)](https://user-images.githubusercontent.com/117727200/205425985-f150c27e-757b-4a0b-9825-ba569e91cd41.png)
 ![Screenshot (362)](https://user-images.githubusercontent.com/117727200/205425986-766d2077-fbb3-4951-9cc7-a9b740c714f4.png)
 ![Screenshot (363)](https://user-images.githubusercontent.com/117727200/205425988-2847e76b-adc6-438d-bcae-89b06fb9c077.png)
-![Screenshot (355)](https://user-images.githubusercontent.com/117727200/205425989-30c3ca65-4fb5-42bf-b581-7de3aeb7c29a.png)
+
 
 ### About Us -
 ![Screenshot (204)](https://user-images.githubusercontent.com/117727200/205011348-74de7163-988f-4121-8678-4644755bb68a.png)
