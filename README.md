@@ -23,17 +23,16 @@ This is a web based application developed for health related based website in in
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-![Screenshot (194)](https://user-images.githubusercontent.com/117727200/205010930-49b31a24-78c6-42bc-9793-f3cdc13e5c70.png)
-![Screenshot (195)](https://user-images.githubusercontent.com/117727200/205010953-f2ea73af-b056-433e-86eb-683d5eafe23c.png)
-![Screenshot (196)](https://user-images.githubusercontent.com/117727200/205010980-8a14f2f9-a317-4662-a390-e0b3279c3c64.png)
-![Screenshot (197)](https://user-images.githubusercontent.com/117727200/205011005-e5ef5820-abd2-4f39-a790-a5cd175937c4.png)
-![Screenshot (198)](https://user-images.githubusercontent.com/117727200/205011028-cfd94b50-9b9e-49e2-b8ea-ad1b8819ebd0.png)
-![Screenshot (199)](https://user-images.githubusercontent.com/117727200/205011043-44037039-662d-4ebf-b2e6-b6d1b19f1351.png)
-![Screenshot (200)](https://user-images.githubusercontent.com/117727200/205011065-f818abe5-51dd-4b49-9904-1ef18224062a.png)
-![Screenshot (201)](https://user-images.githubusercontent.com/117727200/205011093-9a4946ca-d900-4f9c-b70a-b67066d41d23.png)
-![Screenshot (202)](https://user-images.githubusercontent.com/117727200/205011125-fa5e12d9-c832-4025-8606-7aa2df040942.png)
-![Screenshot (203)](https://user-images.githubusercontent.com/117727200/205011148-9c2255fe-6da4-4de0-8754-7b396a112a46.png)
 
+![Screenshot (356)](https://user-images.githubusercontent.com/117727200/205425977-2ca1654e-f82c-4dfa-9b7e-7bc168f61dd1.png)
+![Screenshot (357)](https://user-images.githubusercontent.com/117727200/205425980-49a295c9-8592-4b73-899d-c6f112386c47.png)
+![Screenshot (358)](https://user-images.githubusercontent.com/117727200/205425981-f999bc0e-8bf4-4231-bf5d-86f7e3156467.png)
+![Screenshot (359)](https://user-images.githubusercontent.com/117727200/205425982-87d200b0-d419-41b1-bd0d-bef2830f9554.png)
+![Screenshot (360)](https://user-images.githubusercontent.com/117727200/205425983-25b09d34-0da9-4c7e-b217-ffac2f185730.png)
+![Screenshot (361)](https://user-images.githubusercontent.com/117727200/205425985-f150c27e-757b-4a0b-9825-ba569e91cd41.png)
+![Screenshot (362)](https://user-images.githubusercontent.com/117727200/205425986-766d2077-fbb3-4951-9cc7-a9b740c714f4.png)
+![Screenshot (363)](https://user-images.githubusercontent.com/117727200/205425988-2847e76b-adc6-438d-bcae-89b06fb9c077.png)
+![Screenshot (355)](https://user-images.githubusercontent.com/117727200/205425989-30c3ca65-4fb5-42bf-b581-7de3aeb7c29a.png)
 
 ### About Us -
 ![Screenshot (204)](https://user-images.githubusercontent.com/117727200/205011348-74de7163-988f-4121-8678-4644755bb68a.png)
