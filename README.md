@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://black-pebble-046d0f700.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/TpC9eHGKlBc
 
 ## Azure technologies used for Project
 
@@ -65,3 +65,4 @@ This is a web based application developed for health related based website in in
 - HTML
 - CSS
 - JAVA
+- BOOTSTRAP
