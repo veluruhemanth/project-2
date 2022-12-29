@@ -1,8 +1,8 @@
 # ✨  AQUARIUM ✨
 
-This is a web based application developed for health related based website in india
+This is a web based application developed for aquarium related based website in india
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based aquarium application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** -https://black-pebble-046d0f700.2.azurestaticapps.net/
@@ -11,7 +11,7 @@ This is a web based application developed for health related based website in in
 ## Azure technologies used for Project
 
 - Static web apps
-- chat bot
+- health bot
 
 ## Features and Functionalities 
 
@@ -20,10 +20,13 @@ This is a web based application developed for health related based website in in
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, About Us, Contact, servicess, fish related topics and aquarium information etc.
 - User can know about aquarium information through this website.
-- Included the feedback Survey form to increase the scope of improvement 
+- Included the feedback Survey form to increase the scope of improvement.
+- We provide healthbot for more information.
 
-## Screenshots
+## Screenshots -
 
+![Screenshot (1130)](https://user-images.githubusercontent.com/117727200/209945278-8aba0842-9d30-482b-8337-1ca0917e4e1b.png)
+![Screenshot (1131)](https://user-images.githubusercontent.com/117727200/209945303-dfeb3af1-3bc9-441c-ad91-a4ab680b7583.png)
 ![Screenshot (355)](https://user-images.githubusercontent.com/117727200/205426052-f40411fd-5669-454f-b4dc-ac7a3e322a8a.png)
 ![Screenshot (356)](https://user-images.githubusercontent.com/117727200/205425977-2ca1654e-f82c-4dfa-9b7e-7bc168f61dd1.png)
 ![Screenshot (357)](https://user-images.githubusercontent.com/117727200/205425980-49a295c9-8592-4b73-899d-c6f112386c47.png)
@@ -53,7 +56,7 @@ This is a web based application developed for health related based website in in
 ![Screenshot (212)](https://user-images.githubusercontent.com/117727200/205012301-edefd0d3-feec-4a1e-9c9e-13b186fa8d01.png)
 ![Screenshot (213)](https://user-images.githubusercontent.com/117727200/205012364-e7eb4260-366e-410c-b320-47663d458cad.png)
 
-### chat bot
+### health bot -
 
 ![Screenshot (214)](https://user-images.githubusercontent.com/117727200/205012506-8acb121f-3a27-4dfb-a750-3e696ab5c2ea.png)
 
